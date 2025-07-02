@@ -39,6 +39,7 @@
 #include <memory>
 #include <string>
 #include <vector>
+#include <unistd.h>
 
 #include "boost/crc.hpp"
 
